@@ -12,7 +12,7 @@ The models generated in Lab 5.4 are exported and imported using the Joblib libra
 ## Client:
 I've developed a client-side web application using Streamlit in Python, which is run on Google Colab. Users have the capability to upload a .exe file into the application. The backend code extracts PE features from the uploaded file, packages them into JSON format, and sends them to the endpoint for prediction. The application then records the response from the endpoint and displays the classification of the uploaded .exe file.
 
-[Project Presentation](https://youtu.be/Gf-XVTinqVk)
+[Project Presentation](https://youtu.be/nPb6WTpmwok?si=7T3zHtLV3ZPj2m7h)
 
 
 Thank you
